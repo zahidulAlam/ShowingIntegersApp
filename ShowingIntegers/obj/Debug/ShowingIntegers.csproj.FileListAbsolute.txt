@@ -1,0 +1,12 @@
+D:\SEIP\test\ShowingIntegers\ShowingIntegers\bin\Debug\ShowingIntegers.exe.config
+D:\SEIP\test\ShowingIntegers\ShowingIntegers\bin\Debug\ShowingIntegers.exe
+D:\SEIP\test\ShowingIntegers\ShowingIntegers\bin\Debug\ShowingIntegers.pdb
+D:\SEIP\test\ShowingIntegers\ShowingIntegers\obj\Debug\ShowingIntegers.csprojResolveAssemblyReference.cache
+D:\SEIP\test\ShowingIntegers\ShowingIntegers\obj\Debug\ShowingIntegers.exe
+D:\SEIP\test\ShowingIntegers\ShowingIntegers\obj\Debug\ShowingIntegers.pdb
+E:\zahid\assignment\set 01\ShowingIntegers\ShowingIntegers\bin\Debug\ShowingIntegers.exe.config
+E:\zahid\assignment\set 01\ShowingIntegers\ShowingIntegers\obj\Debug\ShowingIntegers.exe
+E:\zahid\assignment\set 01\ShowingIntegers\ShowingIntegers\obj\Debug\ShowingIntegers.pdb
+E:\zahid\assignment\set 01\ShowingIntegers\ShowingIntegers\bin\Debug\ShowingIntegers.exe
+E:\zahid\assignment\set 01\ShowingIntegers\ShowingIntegers\bin\Debug\ShowingIntegers.pdb
+E:\zahid\assignment\set 01\ShowingIntegers\ShowingIntegers\obj\Debug\ShowingIntegers.csprojResolveAssemblyReference.cache
